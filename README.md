@@ -1,6 +1,6 @@
 # Ecommerce-Website
 
-Ecommerce Website using HTML,CSS,JS
+Ecommerce Website using HTML,CSS & JavaScript
 
 ![alt text](/images/redstore.png)
 
